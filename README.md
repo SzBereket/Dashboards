@@ -28,3 +28,6 @@ Power BI üzerinden yapmış olduğum 2 dashboard örneğini aşağıda fotoğra
 ![8k](https://github.com/user-attachments/assets/bd7d640a-c4dc-4528-a061-66aeffed0353)
 
 
+Verilerin bir kısmı şirket verisi olduğu için sansürlenmiştir.
+Saygılarımla,
+Sabri Bereket
